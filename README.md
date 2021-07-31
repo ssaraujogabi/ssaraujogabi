@@ -1,8 +1,8 @@
 ## Oiii! tudo bem? Me chamo Gabriele Araújo e sou apaixonada por programação ❤️
  <div>
   <a href="https://github.com/ssaraujogabi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssaraujogabi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaraujogabi&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssaraujogabi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaraujogabi&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
