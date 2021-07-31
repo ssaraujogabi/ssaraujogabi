@@ -20,6 +20,6 @@
   <a href = "mailto:ssaraujogabi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriele-ara%C3%BAjo-209251184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation]( https://github.com/ssaraujogabi/ssaraujogabi/commit/5f49e078d12e440a4005c6057ad293dd285d5b78)
+ ![Snake animation](https://github.com/rafaballerini/ssaraujogabi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
