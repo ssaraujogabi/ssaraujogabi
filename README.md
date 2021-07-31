@@ -1,4 +1,5 @@
 ## Oiii! tudo bem? Me chamo Gabriele Araújo e sou apaixonada por programação ❤️
+### Dê o seu melhor sempre 🚀
  <div>
   <a href="https://github.com/ssaraujogabi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ssaraujogabi&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
